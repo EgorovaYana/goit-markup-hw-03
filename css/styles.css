@@ -298,4 +298,5 @@ img {
 .portfolio-item-box {
   padding: 32px 16px;
   border: 1px solid var(--fourth-brand-color);
+  border-top: none;
 }
