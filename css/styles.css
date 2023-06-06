@@ -107,7 +107,6 @@ img {
 }
 .header .container {
   display: flex;
-  justify-content: space-between;
   align-items: center;
 }
 .nav {
@@ -132,6 +131,7 @@ img {
 }
 .header-address {
   font-style: normal;
+  margin-left: auto;
 }
 .header-address-list {
   display: flex;
